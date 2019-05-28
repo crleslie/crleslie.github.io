@@ -1,0 +1,21 @@
+---
+layout: page
+title: About
+permalink: /about/
+---
+
+## This website
+Welcome! This website is an extension of both my personal and professional work as a researcher and data analyst. My primary goal is to share some of what I have learned in the realms of collecting, managing, analyzing, and visualizing data, with a particular emphasis on open source platforms, such as R. Through tutorials and posts on the fundamentals of data science (with occasional tangents and digressions for good measure) there should hopefully be a little something for everyone, especially those just getting started as data analysts.
+
+## How I got to here
+Having always had an affinity for both the outdoors and mucking around with data, I have been fortunate to forge a career combining the two. For the last ten years I have been working in public lands management as a researcher, focusing on the collection and application of social science data in natural resource settings. While my passion is firmly rooted in the conservation of the natural world, the reality is databases, geographic information systems, and statistical analysis platforms are essential tools in my professional life.
+
+In my view, public lands management is an ongoing experiment in our ability to adapt within a complex interplay of social and ecological processes. Although studied observation and deliberate governance have always played a crucial role in good public lands management, the need and demand for high-quality multi-disciplinary data have been growing considerably in recent decades. Which more or less brings me to why I wanted to put this website together. All to often data are treated as supplemental to management decisions when in fact they aught to be the foundation.
+
+It would be easy for a data analyst like myself to simply point my finger at decision makers and say "I gave you good data, it was up to you to put it to good use." But that's kind of like giving a contractor all the best building materials and no blueprints of what you are going for. It doesn't matter how good the contractor is, you shouldn't be surprised when the house they build looks, well, different than what you had in mind.
+
+Don't get me wrong, good data are essential. Without it, you're kind of sunk from the start. Yet if there is one thing I have started to learn, it is that being a good analyst is about a lot more than simply identifying outliers, running some models and creating contingency tables (though those are sometimes feats in their own right). Being a good data analyst is about effectively communicating what you have learned along with setting up a good work-flow to mine the data for questions that others may have in the future. And yes, their questions are important too, just like yours. These two issues, *communication* and a *good work-flow*, are probably the two largest factors that made me re-evaluate how I approached data analysis.
+
+Like many people, I spent much of my early career working with data in Excel spreadsheets. After all, it is almost ubiquitous in the business and government sectors. For more in depth statistical analysis I might break open a slightly more heavyweight statistical platform like SPSS. Alas, they all suffered from the same pitfalls of poor visualizations and cumbersome work-flows. Fortunately there are alternatives. Many years ago, I was introduced to R by a mentor at the National Park Service. Since then, almost every analysis project I have worked on had at least one step that just couldn't quite be handled by an "industry standard" off-the-shelf platform. For these special cases R always had an answer and each time I would find myself spending a little longer working in R. Eventually I asked myself "why am I switching back-and-forth if I can just keep working in R?"
+
+Now, while I enjoy working in a scripted environment like R, I can still remember well the challenge of trying to teach myself how to use a platform that *very* few colleagues around me were using. I have still only scratched the surface but I wouldn't even be here if it weren't for the countless individuals who have taken time to write, record, and narrate great tutorials. My goal now is to pay it forward a bit and hopefully, inspire and help just a few more people become better data analysts.
