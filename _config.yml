@@ -1,2 +1,4 @@
 name: Colin Leslie
 markdown: kramdown
+
+theme: jekyll-theme-minimal
